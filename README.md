@@ -1,2 +1,2 @@
-# trie-ts
-A TypeScript implementation of a Prefix Tree (Trie)
+# cs-ts
+A collection of implementations of computer science basics, in TypeScript.
